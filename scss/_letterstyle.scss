@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import './colors';
+
+h1, h2, h3, a, p, button{
+    color: $wh;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1,h2.bl {
+    color: $bl;
+}

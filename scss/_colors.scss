@@ -1,0 +1,12 @@
+$bl: rgb(0, 0, 0);
+$wh: rgb(255, 255, 255);
+$measure: 3rem;
+$background: #3DE07E;
+$footer: #FFFFFF33;
+$button: #E83F57;
+
+@mixin center {
+display: flex;
+align-items: center;
+justify-content: center;
+}
